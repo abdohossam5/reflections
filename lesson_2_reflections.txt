@@ -1,0 +1,7 @@
+What happens when you initialize a repository?
+Why do you need to do it?
+ 
+git init creates a hidden .git folder that contains the files
+that holds the metadata of the repository.
+I need to do it to let git know which files that i will be tracking
+in this repository/folder. 
