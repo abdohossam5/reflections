@@ -1,0 +1,46 @@
+showed the differences between the versions
+we did't have to go through the whole file
+Saved alot of time
+===================
+keep trace of why the changes were made
+know who made the changes
+being able to undo changes if they didn't work out
+===================
+What do you think are the pros and cons of manually
+choosing when to create a commit,
+like you do in Git, vs having versions automatically saved,
+like Google Docs does?
+
+pros: 
+u r in control
+each commit represents a logical changes
+u can easily understand the history of ur commits
+cons:
+u may forget to commit
+risk of losing work
+===================
+Why do you think some version control systems, like Git
+, allow saving multiple files in one commit, while others,
+ like Google Docs, treat each file separately?
+ 
+ because changes in different files may be done to address
+ one logical issue. files may be highly related in programming.
+ while in WP or GDocs each file or page is a seperate entity.
+ ===================
+ How can you use the commands git log and git diff to view the 
+ history of files?
+ 
+ git log will provide all the branches made
+ git diff will allow us to compare differences between branches
+ ===================
+ How might using version control make you more confident to make
+ changes that could break something?
+ 
+ because I know that i can be able to run previous commits at any time
+ and be able to spot where exactly did i go wrong by using git diff 
+ to compare commits so i can fix any bugs that occured because of 
+ my new changes.
+ ===================
+ what do you want to try using Git for?
+ 
+ MY Android Apps
