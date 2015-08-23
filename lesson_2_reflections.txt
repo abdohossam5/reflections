@@ -37,3 +37,7 @@ logical changes. example if i am working on a new feature then all
 the commits related to this feature will be attached to its branch not
 the master.
 ===========================
+How do the diagrams help you visualize the branch structure?
+
+helps to see the commits in each branch and also track commits
+that may not be available using git log.
