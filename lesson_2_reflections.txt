@@ -19,3 +19,9 @@ and it keeps track of some of them.
 it offers you the option to choose which files to commit so
 you can choose if you don't want to commit some files or seperate
 commits to serve one logical purpose.
+===========================
+How can you use the staging area to make sure you have one commit
+per logical change?
+
+use git diff --staged to compare between files in the staging area
+and the last commit to limit the commit to one logical change.
