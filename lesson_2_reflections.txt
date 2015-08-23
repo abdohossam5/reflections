@@ -25,3 +25,15 @@ per logical change?
 
 use git diff --staged to compare between files in the staging area
 and the last commit to limit the commit to one logical change.
+===========================
+What are some situations when branches would be helpful in keeping
+your history organized? How would branches help?
+
+it helps to seperate working on specific task from affecting the master
+branch. so it allows us to have more control over the code and take more
+risks on branches while the master is not affected.
+branches helps to organize commits in categories that relates to their 
+logical changes. example if i am working on a new feature then all 
+the commits related to this feature will be attached to its branch not
+the master.
+===========================
