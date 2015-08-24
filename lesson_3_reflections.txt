@@ -26,3 +26,10 @@ we would do it manually by checking the differences between our codes.
 using command on cmd.
 make everyone wait for the other one to finish working.
 =================================
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+When i am testing a new feature or fixinf a bug.
+working on the master makes it easier but you might end up missing the whole code.
+while working on branches makes it more complicated to merge this branches back to master
+but your master version is safe and won't be messed up.
