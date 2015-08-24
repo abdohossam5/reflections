@@ -47,3 +47,12 @@ Why do we represent it in the diagram the way we do?
 
 They become one branch and the code is merged by git.
 to understand the commits from each branch.
+===========================
+What are the pros and cons of Git’s automatic merging vs. 
+always doing merges manually?
+
+automatic merging is useful for cases when both branches 
+didn't affect the same parts of code. otherwise git lets us
+decide how t handle the changes by asking us to resolve the
+conflicts
+===========================
