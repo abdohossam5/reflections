@@ -15,3 +15,7 @@ forks: to copy someone else's repo on GitHub. use it if i don't have permission 
 clones: clone a repo remotly or locally. download a repo to local machine.
 branches: you create when u want to work on a feature or fix a bug while leaving the master as it is.
 =================================
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can safely work on it and then use fast forward merge to sync the local version with
+the remote one.
